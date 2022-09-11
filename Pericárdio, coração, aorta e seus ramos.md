@@ -1,12 +1,19 @@
 # Pericárdio, coração, aorta e seus ramos
 
+<style> 
+div {
+align: center;
+width: 40%
+}
+</style>
+
 ## Pericárdio
 
 O pericárdio contém o coração e as partes justacardíacas de seus grandes vasos. Ele consiste em dois componentes, o pericárdio fibroso e o pericárdio seroso. 
 
 <div align="center">
 
-<img style="width: 33%" src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/pericardio_transversal.jpg">
+<img style="width: 40%" src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/pericardio_transversal.jpg">
 
 <sub> **Fig. 1** <sub />
 
@@ -16,7 +23,7 @@ O pericárdio fibroso é um saco constituído por um resistente tecido conjuntiv
 
 <div align="right">
 
-<img src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/pleura_pericardio.jpg">
+<img style="width: 40%" src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/pleura_pericardio.jpg">
 
 <sub> **Fig. 2** <sub />
 
