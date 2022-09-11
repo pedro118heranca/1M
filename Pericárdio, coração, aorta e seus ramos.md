@@ -1,11 +1,6 @@
-# Pericárdio, coração, aorta e seus ramos
+<div align="justify">
 
-<style> 
-div {
-align: center;
-width: 40%
-}
-</style>
+# Pericárdio, coração, aorta e seus ramos
 
 ## Pericárdio
 
@@ -13,7 +8,7 @@ O pericárdio contém o coração e as partes justacardíacas de seus grandes va
 
 <div align="center">
 
-<img src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/pericardio_transversal.jpg">
+<img style="width: 40%" src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/pericardio_transversal.jpg">
 
 <sub> **Fig. 1** <sub />
 
@@ -23,7 +18,7 @@ O pericárdio fibroso é um saco constituído por um resistente tecido conjuntiv
 
 <div align="right">
 
-<img style="width: 40%" src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/pleura_pericardio.jpg">
+<img style="width: 60%" src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/pleura_pericardio.jpg">
 
 <sub> **Fig. 2** <sub />
 
@@ -35,10 +30,12 @@ As duas superfícies serosas estão justapostas e separadas por uma camada de fl
 
 <div align="right">
 
-<img src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/reflexao_do_pericardio.jpg">
+<img style="width: 60%" src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/reflexao_do_pericardio.jpg">
 
 <sub> **Fig. 3** <sub />
 
 </div>
 
 A separação das duas lâminas do pericárdio seroso cria um estreito espaço, a cavidade pericárdica (_fig. 1_), a qual proporciona uma separação completa entre o coração e seus arredores, assim permitindo a ele alguma liberdade para se movimentar e mudar de formato.
+
+</div>
