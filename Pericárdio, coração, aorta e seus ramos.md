@@ -8,9 +8,9 @@ O pericárdio contém o coração e as partes justacardíacas de seus grandes va
 
 <div align="center">
 
-<img style="width: 40%" src="./pericardio_transversal.jpg">
+![Image](./b5b7bfe187e4d77a6232c576d0da4d78.jpg) 
 
-<sub> **Fig. 1** <sub />
+**Fig. 1**
 
 </div>
 
