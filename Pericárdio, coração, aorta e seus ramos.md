@@ -18,9 +18,13 @@ O pericárdio seroso consiste em duas lâminas de pericárdio seroso, uma dentro
 
 As duas superfícies serosas estão justapostas e separadas por uma camada de fluido. Este líquido permite o movimento da membrana interna e do coração aderido a ela, exceto nas áreas arteriais e venosas do pericárdio onde as duas lâminas serosas se mesclam nas reflexões do pericárdio (ou "linhas parietoviscerais").
 
+<div align="right">
+
 <img src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/reflexao_do_pericardio.jpg">
 
 <sub> **Fig. 3** <sub />
+
+<div />
 
 A separação das duas lâminas do pericárdio seroso cria um estreito espaço, a cavidade pericárdica (_fig. 1_), a qual proporciona uma separação completa entre o coração e seus arredores, assim permitindo a ele alguma liberdade para se movimentar e mudar de formato.
 
