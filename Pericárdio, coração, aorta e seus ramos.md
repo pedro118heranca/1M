@@ -24,6 +24,8 @@ As duas superfícies serosas estão justapostas e separadas por uma camada de fl
 
 A separação das duas lâminas do pericárdio seroso cria um estreito espaço, a cavidade pericárdica (_fig. 1_), a qual proporciona uma separação completa entre o coração e seus arredores, assim permitindo a ele alguma liberdade para se movimentar e mudar de formato.
 
+---
+
 ## Aorta
 
 ### Valva da aorta
