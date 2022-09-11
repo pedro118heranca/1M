@@ -4,9 +4,13 @@
 
 O pericárdio contém o coração e as partes justacardíacas de seus grandes vasos. Ele consiste em dois componentes, o pericárdio fibroso e o pericárdio seroso. 
 
-<img src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/pericardio_transversal.jpg">
+<div align="center">
+
+<img style="width: 33%" src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/pericardio_transversal.jpg">
 
 <sub> **Fig. 1** <sub />
+
+</div>
 
 O pericárdio fibroso é um saco constituído por um resistente tecido conjuntivo, que circunda completamente o coração sem estar aderido a ele. Suas paredes laterais são cobertas externamente pela parte mediastinal da pleura parietal. 
 
