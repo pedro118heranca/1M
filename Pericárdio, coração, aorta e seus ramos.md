@@ -30,7 +30,7 @@ As duas superfícies serosas estão justapostas e separadas por uma camada de fl
 
 <div align="right">
 
-<img style="width: 60%" src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/reflexao_do_pericardio.jpg">
+<img style="width: 40%" src="https://github.com/pedro118heranca/1M/blob/2b87489b89a4a31db57240bdc7c206f29dd3ec3d/reflexao_do_pericardio.jpg">
 
 <sub> **Fig. 3** <sub />
 
